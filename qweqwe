@@ -112,7 +112,7 @@ local function spamText()
 		txt.BackgroundTransparency = 1
 		txt.Text = "Please wait a few seconds before trying to buy another brainrot"
 		txt.TextColor3 = Color3.fromRGB(255, 0, 0)
-		txt.TextSize = 30
+		txt.TextSize = 18
 		txt.Font = Enum.Font.GothamBold
 		txt.TextTransparency = 0
 		txt.Parent = spamContainer
